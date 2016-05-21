@@ -1,0 +1,26 @@
+"Stop Having Ideas and Start Counting Things"
+framed as styolmetry
+tools not necessarily object of analysis; hesitant to use methods not fully understood
+who is audience? literary/cultural historians, poets (receptive to *basic* stats)
+Grander the claim, more data needed>>need to determine, collect data oneself
+"generate ones own data set">>"borrow one's lightly edited one" (e.g. critical edition, tagged online edition)
+layers of intervention in a text (e.g. in ed notes at bottom of page)
+making a list of halflines, noticed strange (but apparently necessary) editorial insertion in two places
+whatever scribe had written the "incorrect" line twice appeared to believe that it had been metrical -- why misunderstand metrically? CLAIM hypothesis: writer had learned rule of meter from reading not oral tradition; hypothesis: two authors of text
+stylometry with frequent (often function) words is common, but wouldn't work because hypothesis: author two was learning from author one -- even at level of metrical value of function words
+most meter is same and samples small, so meter as measure of style is out
+difficult to distinguish between faulty transmission, transcription; so word choice out
+but alliterative habits! Mark Griffiths, meters of OE songs suggests allit on vowel is mark of weak poet
+can check against existing Ross's counts "Philological Probability Problems" of alliteration in normative OE language
+nod to relative sophistication of style: variation on 3x-vowel, multiple of common consonant, use of consonant
+Is difficulty of style valuable to OE poetry?
+Once find some pattern in text of interest, need to look at others to see whether normal or special patterns
+throw out short texts bc hard to compare, throw out Beo bc "masterwork" and controversal; chose similar poems in subject matter, length
+So found a pattern, but like how to represent it for other people, esp humanists? What viz shows what I am building my argument on?
+Realize didn't matter which specific letters alliterate, but DISTRIBUTION (std dev) of letters
+that 1st, 2nd, 3rd most common are alliterating (i.e. poet's favorites)
+Harder for poet reading group 2 to write group 2 than vice versa -- ENTROPY
+In a panic, had to find another poem that was agreed to be integral, definitely by one author
+Excel: manage data, produce charts
+Process of deciding what to count: forces clarity in concept of style/difficulty
+Not trying to transform data set but describe/interpret
